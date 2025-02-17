@@ -1,4 +1,6 @@
 # RealEstateMarketWebApplication
+I have contributed in this project of creating a web application
+Here are the details of what this web app will provide:
 Matrix Property Website: Your Guide to the Real Estate Market
 
 Navigating the real estate market can be challenging, especially in times of economic uncertainty. Mortgage rates are at their highest since 2002, leaving many potential homebuyers, investors, and real estate professionals wondering whether now is the right time to buy or sell. The Matrix Property website provides the tools and data you need to make informed decisions.
